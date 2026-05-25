@@ -1,0 +1,6 @@
+{
+  "name": "Dr Pepper Fan Portal",
+  "description": "An interactive hub for Dr Pepper products, the 23 flavors, Pepperhood fan community, gaming rewards, and heritage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
